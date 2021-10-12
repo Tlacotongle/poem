@@ -11,4 +11,7 @@ Francisco Ehrenberg
 I do not know, but seems useful
 
 ## List of poems
-1. Something other that what was on github
+
+1. Roses are red
+2. The sun within
+
